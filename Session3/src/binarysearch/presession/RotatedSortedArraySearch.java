@@ -1,4 +1,4 @@
-package binarysearch;
+package binarysearch.presession;
 
 import java.util.List;
 

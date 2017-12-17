@@ -1,4 +1,6 @@
-package trees;
+package trees.presession;
+
+import trees.TreeNode;
 
 import java.util.ArrayList;
 import java.util.Stack;
